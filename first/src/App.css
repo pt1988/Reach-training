@@ -18,6 +18,18 @@
   font-size: large;
 }
 
+.hello {
+  color: red;
+  font-size: 30px;
+}
+
+.number {
+  color: green;
+}
+
+.button {
+  color: blue;
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
